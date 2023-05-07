@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+    color: #353535;
+    font-weight: 700;
+}
+
+
+
+/* =================== */
